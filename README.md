@@ -3,7 +3,7 @@ The primary objective of this project is to leverage the Instagram API to extrac
 
 Through the utilization of Instagram API functionalities, we gather data that allows us to discern which images excel and the underlying reasons behind their success. This exploration serves not only to enhance our understanding of image dynamics but also to inform strategies for optimizing content and maximizing engagement on the platform.
 
-As a show and tell of this repository there is only the gender model published.
+As a show and tell of this repository there is only the gender model published, but in local we are including several models such as gender, emotions, age.
 
 The final results is as follows, where we see the people classified from a Gap Mexico post in Instagram.
 
